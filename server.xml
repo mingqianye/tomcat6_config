@@ -134,7 +134,7 @@
             unpackWARs="true" autoDeploy="true"
             xmlValidation="false" xmlNamespaceAware="false">
 
-	    <Context path="" docBase="war" debug="0" reloadable="true"/>
+	    <Context path="" docBase="house.spicyfox.com" debug="0" reloadable="true"/>
 
         <!-- SingleSignOn valve, share authentication between web applications
              Documentation at: /docs/config/valve.html -->
